@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: aqua;
+    font-size: 29px;
+}
+h1{
+    color: aqua;
+}
+input{
+    font-size: 18px;
+    width: 150px; height: 25px;
+}
+span{
+    color: rgb(255, 201, 5);
+    font-size: 28px;
+}
+img{
+    width: 1400px; height: 300px;
+}
